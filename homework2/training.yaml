@@ -1,0 +1,6 @@
+path: /home/andy/Downloads/compvis_license_plates/
+train: train/images
+val: validation/images
+test: test/images
+names:
+  0: license_plate
